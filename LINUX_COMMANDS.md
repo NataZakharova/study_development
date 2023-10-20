@@ -22,3 +22,14 @@ $ whoami
 nata
 ```
 
+## Print working directory
+```
+$ pwd
+/home/nata/src/study_development
+```
+
+## List directory contents
+```
+$ ls -a
+.  ..  .git  LICENSE  LINUX_COMMANDS.md  README.md
+```
